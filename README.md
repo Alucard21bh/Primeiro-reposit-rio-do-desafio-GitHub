@@ -1,5 +1,5 @@
-# Primeiro repositorio do desafio Git/Hub
-Desafio de projeto Git/GitHub
+# Desafio de projeto Git/Hub
+Primeiro repositorio do Desafio de projeto Git/GitHub
 
 ## Links úteis
 [Download Git](https://git-scm.com/download/win)
